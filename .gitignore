@@ -1,0 +1,8 @@
+__pycache__/
+build/
+*.py[cod]
+*.dll
+*.so
+*.so.*
+*.dylib
+*.bundle
